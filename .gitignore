@@ -1,0 +1,8 @@
+#所有文件
+*
+!.gitignore
+!*.v
+!*.vt
+!*.docx
+!*.doc
+!*txt
